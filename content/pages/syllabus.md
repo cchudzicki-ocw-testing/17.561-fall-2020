@@ -105,4 +105,4 @@ _Covering all the material in the class, with emphasis on the second half_
 
 {{< tableclose >}}
 
- For more information on the memos and the group project, see the {{< resource_link 8c21449d-81bb-1610-8870-8b64fb62f5d2 "Assignments" >}} section.
+ For more information on the memos and the group project, see the {{% resource_link 8c21449d-81bb-1610-8870-8b64fb62f5d2 "Assignments" %}} section.
